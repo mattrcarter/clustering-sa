@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.sticky {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+.yellow {
+  background-color: lightyellow;
+}
+
+.blue {
+  background-color: lightblue;
+}
